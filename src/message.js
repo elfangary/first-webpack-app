@@ -1,5 +1,3 @@
-const displayMessage = () => {
-  return "hell to world";
-}
+const displayMessage = () => 'hell to world';
 
 export default displayMessage;
